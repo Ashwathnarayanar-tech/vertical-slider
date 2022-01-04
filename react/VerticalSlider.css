@@ -1,0 +1,24 @@
+.sliderWrapper{
+  overflow: hidden;
+}
+.SliderContainer{
+  display: flex ;
+  justify-content: center;
+}
+.prevButton,.nextButton{
+  width:20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  background: transparent;
+  border: none;
+  font-size: larger;
+  font-weight: bolder;
+  cursor: pointer;
+}
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
