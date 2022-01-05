@@ -1,9 +1,11 @@
 # vertical-slider
 
 This app can be used as vertical slider block in your store theme.
-## Note: If you want to alter the app, clone this repository and run 'npm i react-slick' and 'npm i slick-carousel' in react directory. (Only for app development)
+#### Note: If you want to alter the app, clone this repository and run 'npm i react-slick' and 'npm i slick-carousel' in react directory. (Only for app development)
 
 # Steps to use this block in your store theme:
+![image](https://user-images.githubusercontent.com/91450011/148206063-d6e1719a-c558-44db-8f4b-3c28932f5d7d.png)
+
 # step1:
 Add echidna.vertical-slider@0.0.1 as dependancy in your store theme menifest.json file as shown below:
 
