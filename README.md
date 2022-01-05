@@ -45,7 +45,8 @@ Declare the block as shown below: (It is recommonded to copy the below block and
         }
       }
     },
-  
+  ![image](https://user-images.githubusercontent.com/91450011/148206758-9fac0cb6-fb31-47d6-86e6-b333bd409cbf.png)
+
  
 # Props
        "arrayOfImages":                    Array           Add image urls here
